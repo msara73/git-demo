@@ -6,3 +6,5 @@ This is the first file in this repository
 1. index.html
 
 ## Cloned from github repoitory
+
+### check for the conflicts
