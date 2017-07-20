@@ -7,4 +7,3 @@ This is the first file in this repository
 
 ## Cloned from github repoitory
 
-### check for the conflicts
